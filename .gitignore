@@ -1,3 +1,0 @@
-echo "Lib/" >> .gitignore
-echo "Scripts/" >> .gitignore
-echo "pyvenv.cfg" >> .gitignore
