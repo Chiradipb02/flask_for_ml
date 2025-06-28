@@ -1,1 +1,1 @@
-# Flask bassed web dev and ml model deployment
+# Flask based web dev and ml model deployment
